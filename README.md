@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrey.
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting Java tasks.
 - 📫 How to reach me andrey.petrov01@gmail.com
 
 <!---
